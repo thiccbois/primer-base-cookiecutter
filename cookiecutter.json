@@ -1,0 +1,5 @@
+{
+    "name": "My Project",
+    "base_repo": "git://base-primer-repo-with-yml",
+    "project_short_description": "Salt Primer Project"
+}
